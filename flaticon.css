@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Flaticon;
+    src: url(https://raw.githubusercontent.com/devhachimi/css/master/fon.eot);
+    src: url(https://raw.githubusercontent.com/devhachimi/css/master/fon.eot#iefix) format("embedded-opentype"), url(https://raw.githubusercontent.com/devhachimi/css/master/fon.woff) format("woff"), url(https://raw.githubusercontent.com/devhachimi/css/master/fon.ttf) format("truetype"), url(fon.svg) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+[class*=" flaticon-"]:after,
+[class*=" flaticon-"]:before,
+[class^=flaticon-]:after,
+[class^=flaticon-]:before {
+    font-family: Flaticon;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 0;
+}
+
+
+.flaticon-arrow-right:before {
+	content: "\e001";
+}
+.flaticon-book215:before {
+	content: "\e002";
+}
+.flaticon-checking1:before {
+	content: "\e003";
+}
+.flaticon-checklist3:before {
+	content: "\e004";
+}
+.flaticon-exit23:before {
+	content: "\e005";
+}
+.flaticon-home253:before {
+	content: "\e006";
+}
+.flaticon-keyboard53:before {
+	content: "\e007";
+}
+.flaticon-left207:before {
+	content: "\e008";
+}
+.flaticon-magnifying42:before {
+	content: "\e009";
+}
+.flaticon-menu26:before {
+	content: "\e00a";
+}
+.flaticon-add139:before {
+	content: "\e000";
+	    color: #000;
+    font-size: 27px
+}
+.flaticon-minus87:before {
+	content: "\e00b";
+	    color: #000;
+    font-size: 27px
+}
+.flaticon-open161:before {
+	content: "\e00c";
+}
+.flaticon-smartphone146:before {
+	content: "\e00d";
+}
+.flaticon-star-shape1:before {
+	content: "\e00e";
+}
+.flaticon-three132:before {
+	content: "\e00f";
+}

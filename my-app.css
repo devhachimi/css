@@ -1,0 +1,93 @@
+#thelogo{
+width: auto;
+max-width: 100%;
+height: auto;
+max-height: 100%;
+}
+#homeblock{
+width: 100%;
+text-align: center;
+padding-top: 20px;
+height: calc(100% - 155px);
+}
+.thezoominbutton{
+top: 57px;
+width: 40px;
+height: 40px;
+right: 5px;
+background: rgba(0, 0, 0, 0.0) none repeat scroll 0% 0% !important;
+display: none;
+}
+.thezoomoutbutton{
+top: 57px;
+width: 40px;
+height: 40px;
+left: 5px;
+	right: auto;
+background: rgba(0, 0, 0, 0.0) none repeat scroll 0% 0% !important;
+    display: none;
+}
+
+.indexinglist{
+
+	direction: rtl;
+}
+@font-face{font-family: 'a'; font-style: normal; font-weight: 700; src: url(https://raw.githubusercontent.com/devhachimi/css/master/themixarab.ttf)
+	}
+.Goto{
+	font-size: 20px;
+}
+.item-title{
+	font-size: 22px;
+}
+.thescript{
+	text-align: center;
+color: rgb(89, 0, 128);
+opacity: 1;
+}
+.Options {
+    margin-bottom: 50px;
+    display: none;
+}
+
+
+    .popover {
+      width: 200px;
+    }
+  
+.page-content{
+    background-image: url("https://raw.githubusercontent.com/devhachimi/css/master/darkbc.png");
+}
+.thehomebuttons{
+        position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+.searchlisto{
+    display: block !important;
+text-align: center!important;
+}
+input[type="radio"][name="scriptlist"]{
+    visibility:hidden;
+    display: none;
+}
+.searchchioce {
+    border: medium solid purple;
+border-width: 2px;
+    margin: 1%;
+}
+.picker-keypad-type-numpad {
+    z-index: 20000;
+}
+.modal-button{
+    font-size:20px !important;
+}
+.modal-text{
+    font-size:20px !important;
+}
+.title{
+    direction: rtl;
+}
+.indexitems{
+    font-size: 23px;
+}
